@@ -13,6 +13,22 @@
 
 - 📫 How to reach me **@MSRifat13**
 
+```javascript
+
+while (life) {
+    eat();
+    sleep();
+    code();
+    repeat();
+    if (!dead) {
+        continue;
+    } else if (dead) {
+        break;
+    }
+}
+
+```
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/msrifat13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="msrifat13" height="30" width="40" /></a>
