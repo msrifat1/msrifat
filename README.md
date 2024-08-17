@@ -51,16 +51,16 @@ I am a passionate web developer with a focus on creating seamless, responsive, a
 
 ### 📫 How to reach me:
 
-- **Email**: [msrifat1433@gmail.com]
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
-- **Twitter**: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
+- **Email**: (msrifat1433@gmail.com)
+- **LinkedIn**: (www.linkedin.com/in/msrifat1)
+- **Twitter**: (https://x.com/msrifat123)
 
 ---
 
 ### ⚡ Fun fact:
 
 - I love to explore new technologies and stay updated with industry trends.
-- When I'm not coding, you can find me [hobby or interest, e.g., hiking, gaming, reading].
+- When I'm not coding, you can find me gaming, traveling.
 
 ---
 
