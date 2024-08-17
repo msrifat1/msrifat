@@ -1,49 +1,84 @@
-<h2 align="left">Hi 👋! My name is Rifat and A passionate MERN Stack Developer.</h2>
+# Hi there, I'm MS Rifat 👋
 
-###
+### 💻 Web Developer | 🌐 Full Stack Enthusiast | 🚀 Tech Explorer
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+![Profile views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
 
-###
+I am a passionate web developer with a focus on creating seamless, responsive, and user-friendly websites and applications. My journey in the tech world started [X] years ago, and since then, I have worked on various projects, ranging from simple landing pages to complex web applications.
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+---
 
-###
+### 🛠️ Languages and Tools:
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+- **Frontend**: 
+  - HTML5, CSS3, JavaScript, TypeScript
+  - React.js, Vue.js, Angular
+  - Tailwind CSS, Bootstrap, SASS/SCSS
 
-###
+- **Backend**: 
+  - Node.js, Express.js
+  - Django, Flask, Ruby on Rails
+  - RESTful APIs, GraphQL
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+- **Database**: 
+  - MySQL, PostgreSQL, MongoDB
 
-###
+- **Version Control**: 
+  - Git, GitHub, GitLab
 
-<br clear="both">
+- **DevOps**: 
+  - Docker, Kubernetes, CI/CD Pipelines
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+- **Others**: 
+  - Figma, Adobe XD, Photoshop
 
-###
+---
+
+### 🔭 What I’m currently working on:
+
+- [Project Name]: A [short description] using [tech stack].
+- Improving my skills in [specific technology or area].
+- Contributing to open source projects.
+
+---
+
+### 🌱 What I’m currently learning:
+
+- Advanced React.js patterns and hooks.
+- Exploring the world of microservices.
+- Deepening my knowledge in cloud computing with AWS/GCP.
+
+---
+
+### 💬 Ask me about:
+
+- Building full-stack applications.
+- Best practices in web development.
+- How to make your website responsive and SEO-friendly.
+
+---
+
+### 📫 How to reach me:
+
+- **Email**: [your.email@example.com](mailto:your.email@example.com)
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
+- **Twitter**: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
+
+---
+
+### ⚡ Fun fact:
+
+- I love to explore new technologies and stay updated with industry trends.
+- When I'm not coding, you can find me [hobby or interest, e.g., hiking, gaming, reading].
+
+---
+
+Feel free to connect with me or check out my work on GitHub!
+
+---
+
+### GitHub Stats:
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
