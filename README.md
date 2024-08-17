@@ -8,6 +8,8 @@ I am a passionate web developer with a focus on creating seamless, responsive, a
 
 ---
 
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
 ### 🛠️ Languages and Tools:
 
 - **Frontend**: 
