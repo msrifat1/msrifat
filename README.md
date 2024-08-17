@@ -70,6 +70,6 @@ Feel free to connect with me or check out my work on GitHub!
 
 ### GitHub Stats:
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?msrifat1=msrifat1&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rifat1&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?msrifat1=msrifat1&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rifat1&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
