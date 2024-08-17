@@ -4,7 +4,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
 
-I am a passionate web developer with a focus on creating seamless, responsive, and user-friendly websites and applications. My journey in the tech world started [X] years ago, and since then, I have worked on various projects, ranging from simple landing pages to complex web applications.
+I am a passionate web developer with a focus on creating seamless, responsive, and user-friendly websites and applications. My journey in the tech world started 4 years ago, and since then, I have worked on various projects, ranging from simple landing pages to complex web applications.
 
 ---
 
@@ -13,32 +13,24 @@ I am a passionate web developer with a focus on creating seamless, responsive, a
 - **Frontend**: 
   - HTML5, CSS3, JavaScript, TypeScript
   - React.js, Vue.js, Angular
-  - Tailwind CSS, Bootstrap, SASS/SCSS
+  - Tailwind CSS, Bootstrap
 
 - **Backend**: 
   - Node.js, Express.js
-  - Django, Flask, Ruby on Rails
-  - RESTful APIs, GraphQL
+  - Django
+  - RESTful APIs
 
 - **Database**: 
-  - MySQL, PostgreSQL, MongoDB
+  - MySQL, MongoDB
 
 - **Version Control**: 
-  - Git, GitHub, GitLab
+  - Git, GitHub
 
 - **DevOps**: 
-  - Docker, Kubernetes, CI/CD Pipelines
+  - Docker
 
 - **Others**: 
   - Figma, Adobe XD, Photoshop
-
----
-
-### 🔭 What I’m currently working on:
-
-- [Project Name]: A [short description] using [tech stack].
-- Improving my skills in [specific technology or area].
-- Contributing to open source projects.
 
 ---
 
@@ -46,7 +38,6 @@ I am a passionate web developer with a focus on creating seamless, responsive, a
 
 - Advanced React.js patterns and hooks.
 - Exploring the world of microservices.
-- Deepening my knowledge in cloud computing with AWS/GCP.
 
 ---
 
@@ -60,7 +51,7 @@ I am a passionate web developer with a focus on creating seamless, responsive, a
 
 ### 📫 How to reach me:
 
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
+- **Email**: [msrifat1433@gmail.com]
 - **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
 - **Twitter**: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
 
